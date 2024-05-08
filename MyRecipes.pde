@@ -1,0 +1,5 @@
+class MyRecipes extends Recipes () {
+
+
+
+}
